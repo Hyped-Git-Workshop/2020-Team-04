@@ -25,7 +25,7 @@ double Pod::get_max_speed()
 /// TASKS 3 (PERSON A) & 4 (PERSON B) //////////////////////////////////////////
 double Pod::get_temperature()
 {
-  return 0;
+  return 60;
 }
 
 /// END OF TASKS 3A & 4B ///////////////////////////////////////////////////////
