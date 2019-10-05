@@ -1,6 +1,6 @@
 
 
-nclude <iostream>
+#include <iostream>
 #include "pod.h"
 
 int main()
